@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+
+{% block body %}
+<div class="content">
+    <h1 style="text-align: center;">{{ body_title }}</h1>
+
+    <div class="form">
+        <form action="/s2ytm" method="POST">
+            <p>Enter your Spotify username below</p>
+            <input type="text" name="spotify_username" id="spotify_username" value="">
+            <input type="submit" value="Search Spotify Playlists!">
+        </form>
+    </div>
+</div>
+{% endblock %}
