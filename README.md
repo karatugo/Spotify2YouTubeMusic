@@ -1,5 +1,5 @@
 # Spotify2YouTubeMusic
-Move your Spotify playlists to YouTube Music
+Move your Spotify playlists to YouTube Music! Try the app [here!](https://spotify2youtubemusic.herokuapp.com/)
 
 ## Setup - spotipy
 
